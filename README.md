@@ -1,1 +1,1 @@
-# beginner programs for C @chintu coders
+# beginner programs for C/C++ @chintu coders
